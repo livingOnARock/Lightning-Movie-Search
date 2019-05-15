@@ -1,0 +1,21 @@
+.Media{
+    border: solid black 2px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+    background-color: whitesmoke;
+
+
+}
+.MediaInfo{
+    padding: 10px 50px;
+    font-family: 'Maiden Orange', serif;
+    font-size: 120%;
+    text-align: center;
+    margin: auto;
+}
+
+.image-container{
+    margin: 15px;
+}
